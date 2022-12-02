@@ -1,12 +1,12 @@
 [
   {
-    "name": "DSMRad.io ISICS All",
-    "description": "Des Moines IA, Police Scanner",
-    "link": "https://dsmrad.io",
+    "name": "Basswave Radio",
+    "description": "Was ist das für 1 life?",
+    "link": "https://basswaverad.io",
     "endpoints": [
       {
-        "endpoint": "https://dsmrad.io/stream/isics-all",
-        "codec": "MP3",
+        "endpoint": "https://cast.basswaverad.io/listen/main/stream",
+        "codec": "AAC 192",
         "metadataTypes": ["icy"],
         "statsSources": ["icy"]
       }
